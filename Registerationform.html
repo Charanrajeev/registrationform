@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Registration Form</title>
-        <link rel="stylesheet" href="file:///D:/project/style.css" type="text/css">
+        <link rel="stylesheet" href="style.css" type="text/css">
     </head>
     <body>
           <h3 align="center">Registration Form</h3>
